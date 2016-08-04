@@ -1,0 +1,39 @@
+#! /bin/bash
+
+#
+# $Id: setup.properties.example 711 2014-09-11 09:48:10Z ify04035 $
+#
+
+connection_id=[icat_connection]
+url=https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl
+auth=uows
+username=username
+password=password
+
+FILES_PREFIX=isis
+ICAT_VERSION=4.3.2
+
+#[crontab format]
+CHECKING_ICAT_FREQUENCY="0 * * * *"
+#[in minutes]
+JOAI_INDEXING_FREQUENCY=480
+
+PROVIDER_REPOSITORY_DIR=/home/glassfish/data
+JOAI_DIRECTORY=/home/glassfish/glassfish4/glassfish/domains/domain1/applications/oai
+STATE_FILE=state
+
+#if only filename then it'll be located in src dir
+CRON_LOGFILE=cron.log
+
+#XML constants
+CONTRIBUTOR="Science and Technology Facilities Council, ISIS"
+SUBJECT="Clean energy and the environment, pharmaceuticals and health care, nanotechnology and materials engineering, catalysis and polymers, fundamental studies of materials"
+LANGUAGE=en
+RELATION_GEO_DESC="ISIS, Harwell, United Kingdom"
+RIGHTS="ISIS Data Management Policy http://www.isis.stfc.ac.uk/user-office/data-policy11204.html"
+RELATION_PROJECT=""
+RELATION_COUNTRY=GB
+
+#
+# - the end -
+#

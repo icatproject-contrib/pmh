@@ -1,0 +1,5 @@
+[icat_connection]
+url=https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl
+auth=uows
+username=alistair.mills@btinternet.com
+password=guyfox05

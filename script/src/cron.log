@@ -1,0 +1,1206 @@
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-01 23:00:01.394716
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: b548b4ac-d88b-46d8-a0a9-b38b497e587f
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session b548b4ac-d88b-46d8-a0a9-b38b497e587f
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 00:00:01.419235
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: aa6dacd2-bf10-4734-bda4-c6493a97750f
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+/home/glassfish/data/isis_24090626.xml created
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session aa6dacd2-bf10-4734-bda4-c6493a97750f
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 01:00:03.031816
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: d02b4d24-43b7-4202-9d24-174c6385b3dc
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session d02b4d24-43b7-4202-9d24-174c6385b3dc
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 02:00:02.364862
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 2d9f9403-ca11-4b7e-9cf5-3c6d9f77bf29
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 2d9f9403-ca11-4b7e-9cf5-3c6d9f77bf29
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 03:00:01.197434
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 0dc1c0f5-b32f-4fb9-abdc-515a555cdf8b
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 0dc1c0f5-b32f-4fb9-abdc-515a555cdf8b
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 04:00:01.230277
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: a3ca2b45-17fa-412c-b766-4ce4116811a7
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session a3ca2b45-17fa-412c-b766-4ce4116811a7
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 05:00:02.132329
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 15be590b-53f9-4dbe-99b0-da043c2ba0b8
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 15be590b-53f9-4dbe-99b0-da043c2ba0b8
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 06:00:02.214273
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: a73b8357-c133-40f5-92aa-a66ecb6f3c7b
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session a73b8357-c133-40f5-92aa-a66ecb6f3c7b
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 07:00:02.150508
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 48e2e6cb-cf1d-4ea5-968d-c4ae988f7840
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 48e2e6cb-cf1d-4ea5-968d-c4ae988f7840
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 08:00:01.294988
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: a62d6d9a-1443-4d9d-97ed-60b15f70cd8d
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session a62d6d9a-1443-4d9d-97ed-60b15f70cd8d
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 09:00:02.081477
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: ba228da7-561c-4280-96eb-f12489bd1ddf
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session ba228da7-561c-4280-96eb-f12489bd1ddf
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 10:00:01.237867
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 9bd7308e-c8f8-481c-a0f5-5d09b3ac1dd6
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 9bd7308e-c8f8-481c-a0f5-5d09b3ac1dd6
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 11:00:01.231980
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: db96a96b-6bf3-469a-ad6f-166724af5831
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session db96a96b-6bf3-469a-ad6f-166724af5831
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 12:00:01.363205
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 257370b8-cf46-4509-b653-38568d36ecd0
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 257370b8-cf46-4509-b653-38568d36ecd0
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 13:00:01.395481
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 1379b929-154b-4686-a0cf-6f7af1b6d752
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 1379b929-154b-4686-a0cf-6f7af1b6d752
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 14:00:01.123020
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 332708d9-5442-43e9-91f7-d92acbbb302e
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 332708d9-5442-43e9-91f7-d92acbbb302e
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 15:00:01.962870
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 27827879-0b74-4e9b-96e7-293dc4ad6e1c
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 27827879-0b74-4e9b-96e7-293dc4ad6e1c
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 16:00:01.506537
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 6ba6a94c-4ae6-4f50-a109-03d21ea5d62c
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 6ba6a94c-4ae6-4f50-a109-03d21ea5d62c
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 17:00:01.343045
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 1a0a5379-6a86-41bb-84c8-daea5e6f18ab
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 1a0a5379-6a86-41bb-84c8-daea5e6f18ab
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 18:00:01.952451
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: dfaec6a7-c888-4d3f-81a1-71b860ef5e14
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session dfaec6a7-c888-4d3f-81a1-71b860ef5e14
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 19:00:01.238349
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 4b0b3711-9f25-4bcb-bb92-43d09cfdd725
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 4b0b3711-9f25-4bcb-bb92-43d09cfdd725
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 20:00:01.619154
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 5d381bf2-522e-4898-b9d6-d17d3a0ec823
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 5d381bf2-522e-4898-b9d6-d17d3a0ec823
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 21:00:01.907193
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 5c853727-a2b9-49df-bfe0-b23a21191497
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 5c853727-a2b9-49df-bfe0-b23a21191497
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 22:00:01.866490
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 0047107b-431d-4e36-8152-a8c6c0fe0c4f
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 0047107b-431d-4e36-8152-a8c6c0fe0c4f
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-02 23:00:01.434090
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 22964d4f-61f8-4ebd-b2df-fdb23fbfb505
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 22964d4f-61f8-4ebd-b2df-fdb23fbfb505
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 00:00:01.218784
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 9997b392-45d2-4832-b800-86566d6a4d6c
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+/home/glassfish/data/isis_70305992.xml created
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 9997b392-45d2-4832-b800-86566d6a4d6c
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 01:00:01.290261
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 671fb458-2ad1-4315-8aa0-195b35e74d5a
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 671fb458-2ad1-4315-8aa0-195b35e74d5a
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 02:00:01.680246
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 0ddf0900-5c06-4407-a921-1e6812bc9f7d
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 0ddf0900-5c06-4407-a921-1e6812bc9f7d
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 03:00:01.978789
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: f9e942d3-e4c5-4451-8fce-db53a0680e29
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session f9e942d3-e4c5-4451-8fce-db53a0680e29
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 04:00:01.763651
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: c46ef508-3326-4da8-8e16-113ef1a2fe58
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session c46ef508-3326-4da8-8e16-113ef1a2fe58
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 05:00:01.965067
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 2932fa29-9a85-4020-9688-af36644e24d1
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 2932fa29-9a85-4020-9688-af36644e24d1
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 06:00:01.101478
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: cfefc989-9ae4-4dc2-84c0-8454401adc4e
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session cfefc989-9ae4-4dc2-84c0-8454401adc4e
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 07:00:01.146482
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 3fbf961f-ccc1-48cf-b1ac-a991db9315cf
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 3fbf961f-ccc1-48cf-b1ac-a991db9315cf
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 08:00:01.111027
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: fd989a00-12c1-4361-8406-d1d2b0e66530
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session fd989a00-12c1-4361-8406-d1d2b0e66530
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 09:00:01.499483
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 76b10b09-e355-4a38-8ecf-a919fbeca97c
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+/home/glassfish/data/isis_24091150.xml created
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 76b10b09-e355-4a38-8ecf-a919fbeca97c
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 10:00:01.184242
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: c4bef745-cd71-4926-9751-e0e249690fe0
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+/home/glassfish/data/isis_24091080.xml created
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session c4bef745-cd71-4926-9751-e0e249690fe0
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 11:00:01.871309
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: baed5648-2720-4cbf-9a11-895e929bddeb
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session baed5648-2720-4cbf-9a11-895e929bddeb
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 12:00:01.446440
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 82edcad4-88ec-4c16-8a3a-61dc9e0a5c25
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 82edcad4-88ec-4c16-8a3a-61dc9e0a5c25
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 13:00:01.780340
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: a2936304-2800-4e45-a875-7ed9b2c2d494
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session a2936304-2800-4e45-a875-7ed9b2c2d494
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 14:00:01.436366
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 0ed47332-ab55-4052-bdcd-399c922f8fa0
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 0ed47332-ab55-4052-bdcd-399c922f8fa0
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 15:00:01.777061
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: e5413fd5-fd7d-41c7-9111-2828e687fb87
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session e5413fd5-fd7d-41c7-9111-2828e687fb87
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 16:00:01.569535
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: b4c48212-1d73-4010-87c6-6f681e8f7686
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session b4c48212-1d73-4010-87c6-6f681e8f7686
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 17:00:01.723554
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 3a672b25-d557-4dc1-a65c-2f77386b28d1
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 3a672b25-d557-4dc1-a65c-2f77386b28d1
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 18:00:01.816670
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: a33724b5-38ac-436e-b1c7-24eaaf556486
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session a33724b5-38ac-436e-b1c7-24eaaf556486
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 19:00:02.031418
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 5e1e8047-4fbb-4065-bb6f-c67d878207b1
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 5e1e8047-4fbb-4065-bb6f-c67d878207b1
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 20:00:01.955024
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 583e235f-d2f1-42d9-a706-ba84e9d3349c
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 583e235f-d2f1-42d9-a706-ba84e9d3349c
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 21:00:01.875257
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 42ec283b-e0ec-467a-a353-5b42a4830b2c
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 42ec283b-e0ec-467a-a353-5b42a4830b2c
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 22:00:01.959584
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 7e372d7b-daea-4122-89d7-07b32f9e4c0b
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 7e372d7b-daea-4122-89d7-07b32f9e4c0b
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-03 23:00:01.269351
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 21cb21a6-4387-4104-be62-19eb22e776ce
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 21cb21a6-4387-4104-be62-19eb22e776ce
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-04 00:00:01.690013
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: f747824c-70c8-4de3-94c1-2e7c868eb5a2
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session f747824c-70c8-4de3-94c1-2e7c868eb5a2
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-04 01:00:01.582474
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: c92c244d-f4e8-47ff-9f74-ab76c1bfde10
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session c92c244d-f4e8-47ff-9f74-ab76c1bfde10
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-04 02:00:01.547121
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 47c107d1-beab-433f-8b71-55dcaaa58651
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 47c107d1-beab-433f-8b71-55dcaaa58651
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-04 03:00:01.859010
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 740b3788-34bf-41f5-8dc7-68ce9a89ae18
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 740b3788-34bf-41f5-8dc7-68ce9a89ae18
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-04 04:00:01.923290
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: ec485414-1b5a-43ce-aa97-30d80d479ad0
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session ec485414-1b5a-43ce-aa97-30d80d479ad0
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-04 05:00:01.865189
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: bb262983-3086-4b56-8a75-d8b64f2b0dd8
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session bb262983-3086-4b56-8a75-d8b64f2b0dd8
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-04 06:00:01.343860
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: ba2f805a-3de2-431d-849d-3803f7f84651
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session ba2f805a-3de2-431d-849d-3803f7f84651
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-04 07:00:01.521442
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: bc19150a-5d65-4cca-89ab-d95320ec3c9d
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session bc19150a-5d65-4cca-89ab-d95320ec3c9d
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-04 08:00:02.044564
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: a21cf4b1-93a2-434b-a25a-1861cb446e91
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session a21cf4b1-93a2-434b-a25a-1861cb446e91
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-04 09:00:01.455110
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 6518d0a9-22a8-44ab-a472-a6f7e085f09a
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 6518d0a9-22a8-44ab-a472-a6f7e085f09a
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+
+
+------------------------------------------------------------------------------
+Entry time: 2016-08-04 10:00:01.760571
+Login attempt...
+Login to https://icatisis.esc.rl.ac.uk/ICATService/ICAT?wsdl was successful.
+Session: 201963b7-69d0-4dad-a0d6-485271123204
+User: uows/1042818
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+
+Creating xml files...
+/home/glassfish/data/isis_24091180.xml created
+/home/glassfish/data/isis_24091084.xml created
+Done
+
+/usr/lib/python2.6/site-packages/icat/client.py:201: ClientVersionWarning: ICAT version 4.7 is not supported (too new), expect problems and weird behavior!
+  warn(ClientVersionWarning(self.apiversion, "too new"))
+Log out from session 201963b7-69d0-4dad-a0d6-485271123204

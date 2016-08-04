@@ -1,0 +1,83 @@
+$Id: properties_description.txt 709 2014-09-10 20:52:37Z alistair.mills@stfc.ac.uk $ 
+
+General remarks:
+ - values containing whitespaces must be enclosed into double quotes; it must be valid bash script.
+
+Meaning of individual fields in setup.properties
+
+------------------------------------------------------------------------------------------------------
+| FIELD                      | DESCRIPTION                                                           |
+|----------------------------------------------------------------------------------------------------|
+|                                                                                                    |
+| ICAT CONNECTION PARAMETERS                                                                         |
+|----------------------------------------------------------------------------------------------------|
+| connection_id              | Constant, better not to change it (does not really affect anything).  |
+|----------------------------------------------------------------------------------------------------|
+| url                        | Url for ICAT wsdl service.                                            |
+|----------------------------------------------------------------------------------------------------|
+| auth                       | Authentication type, e.g. uows or db.                                 |
+|----------------------------------------------------------------------------------------------------|
+| username                   | Username for accessing ICAT.                                          |
+|----------------------------------------------------------------------------------------------------|
+| password                   | Password for accessing ICAT.                                          |
+|----------------------------------------------------------------------------------------------------|
+|                                                                                                    |
+|                                                                                                    |
+|----------------------------------------------------------------------------------------------------|
+| FILES_PREFIX               | Script gets data from ICAT and puts them into XML files;              |
+|                            | this is prefix in the file names.                                     |
+|----------------------------------------------------------------------------------------------------|
+| ICAT_VERSION               | Version of the  ICAT, e.g. 4.3.2.                                     |
+|----------------------------------------------------------------------------------------------------|
+| CHECKING_ICAT_FREQUENCY    | A string in the format of crontab entry which                         |
+|                            | defines when ICAT will be checked in order to find                    |
+|                            | new data                                                              |
+|                            | e.g. "0 * * * *" will result in checking ICAT every hour              |
+|----------------------------------------------------------------------------------------------------|
+| JOAI_INDEXING_FREQUENCY    | New files in repository must be indexed by jOAI,                      |
+|                            | after that they can be harvested.                                     |
+|                            | This value (in minutes) defines when the files are indexed.           |
+|----------------------------------------------------------------------------------------------------|
+| PROVIDER_REPOSITORY_DIR    | Defines where download script saves XML files from the ICAT           |
+|                            | This value must be the same as in jOAI configuration.                 |
+|                            | In order to avoid confusion (mainly in jOAI),                         |
+|                            | specify absolute path here.                                           |
+|                            | Please note that this directory must already exist!                   |
+|----------------------------------------------------------------------------------------------------|
+| JOAI_DIRECTORY             | Specifies where jOAI is installed in the application server, and      |
+|                            | includes the 'oai' directory at the end e.g.                          |
+|                            | /home/glassfish/glassfish4/glassfish/domains/domain1/applications/oai |
+|----------------------------------------------------------------------------------------------------|
+| STATE_FILE                 | Name of file stored in src which holds the date of last               |
+|                            | check of ICAT for new fields.                                         |
+|                            | ICAT searching query is based on content of this file.                |
+|                            | It is better not to change value of this field,                       |
+|                            | unless you have an important reason.                                  |
+|----------------------------------------------------------------------------------------------------|
+| CRON_LOGFILE               | Specifies where cron job stores its output.                           |
+|                            | If given only filename then it will be located in src directory.      |
+|                            | Be careful about directory permissions -                              |
+|                            | because it is not a good idea to store it in                          |
+|                            | /var/log/cron.log                                                     |
+|----------------------------------------------------------------------------------------------------|
+|                                                                                                    |
+| XML CONSTANTS                                                                                      |
+| set of values which are used by script creating XML files; they will be put into XML file          |
+|----------------------------------------------------------------------------------------------------|
+| CONTRIBUTOR                | Value that will be put in dc:contributor                              |
+|----------------------------------------------------------------------------------------------------|
+| SUBJECT                    | Value that will be put in dc:subject                                  |
+|----------------------------------------------------------------------------------------------------|
+| LANGUAGE                   | Value that will be put in dc:language                                 |
+|----------------------------------------------------------------------------------------------------|
+| RELATION_GEO_DESC          | Value that will be put in second dc:relation                          |
+|----------------------------------------------------------------------------------------------------|
+| RIGHTS                     | Value that will be put in dc:rights                                   |
+|----------------------------------------------------------------------------------------------------|
+| RELATION_PROJECT           | Value that will be put in third dc:relation                           |
+|----------------------------------------------------------------------------------------------------|
+| RELATION_COUNTRY           | Value that will be put in dc:relation xsi:type="dcterms:ISO3166"      |
+------------------------------------------------------------------------------------------------------
+
+- the end -
+
